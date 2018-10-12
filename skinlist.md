@@ -23,4 +23,4 @@ SIZE: 10,3 MB
 
 just a shit default osu skin with some improvements
 
-![alt text](https://i.imgur.com/5bRMr8g.png)
+![alt text](https://i.imgur.com/8uAUpI8.png)
