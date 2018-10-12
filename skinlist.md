@@ -5,3 +5,4 @@ SKIN LIST
 DOWNLOAD > http://bit.ly/2RLLFqS <
 SIZE: 10,3 MB
 just a shit default osu skin with some improvements
+![alt text](https://imgur.com/a/zf6BtZ1)
