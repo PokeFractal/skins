@@ -8,7 +8,7 @@ SIZE: 26,7 MB
 
 a simple skin based in white-grey colors
 
-![alt text](https://i.imgur.com/q09oMSX.png)
+![alt text](https://i.imgur.com/HqnW0i8.png)
 
 
 
