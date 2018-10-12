@@ -2,7 +2,7 @@ SKIN LIST
 
 1# SimpleWhiteWorld V1 -by DizzyH-
 
-DOWNLOAD: bit.ly/2OSfWpI
+DOWNLOAD: http://bit.ly/2OSfWpI
 
 SIZE: 26,7 MB
 
