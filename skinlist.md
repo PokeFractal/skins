@@ -2,7 +2,8 @@ SKIN LIST
 
 1# OTSUA 1.0 -by DizzyH-
 
-DOWNLOAD: http://bit.ly/2CyuioG
+DOWNLOAD 1.0: http://bit.ly/2CyuioG
+DOWNLOAD 1.1: http://bit.ly/2J8aCZK
 
 SIZE: 20,1 MB
 
