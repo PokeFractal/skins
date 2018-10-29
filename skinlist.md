@@ -8,6 +8,8 @@ DOWNLOAD 1.1: http://bit.ly/2J8aCZK
 
 DOWNLOAD 1.2: http://bit.ly/2qcOTrc
 
+DOWNLOAD 1.3: http://bit.ly/2P1Nbry
+
 SIZE: 20,1 MB
 
 another simple skin, but its more colored
