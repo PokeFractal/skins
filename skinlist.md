@@ -1,13 +1,9 @@
 SKIN LIST
 
-1# OTSUA ReLoadeD -by DizzyH-
+DizzyH MegaMix
 
-DOWNLOAD 1.0: SOON
+DOWNLOAD: https://drive.google.com/file/d/1UoeZgHlLarwIvHIHNVKJWuuKSQXvcjzM/view
 
-SIZE: SOON
 
-?????????????????
+![alt text]()
 
-![alt text](https://drive.google.com/file/d/1UoeZgHlLarwIvHIHNVKJWuuKSQXvcjzM/view)
-
-ANY BUGS ON SKINS, OR SOMETHING TO SAY ABOUT THE SKIN JUST PM ME IN THE GAME > DizzyH
