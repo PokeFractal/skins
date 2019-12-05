@@ -8,6 +8,6 @@ SIZE: SOON
 
 ?????????????????
 
-![alt text]()
+![alt text](https://drive.google.com/file/d/1UoeZgHlLarwIvHIHNVKJWuuKSQXvcjzM/view)
 
 ANY BUGS ON SKINS, OR SOMETHING TO SAY ABOUT THE SKIN JUST PM ME IN THE GAME > DizzyH
