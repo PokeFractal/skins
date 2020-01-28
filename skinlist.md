@@ -1,4 +1,4 @@
-SKIN LIST
+SKIN LIST.
 
 DizzyH MegaMix
 
